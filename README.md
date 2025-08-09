@@ -5,3 +5,5 @@
 ## Still on topic, I've created this CLI to practice my knowledge. I've been learning Python these past two weeks, and I feel like I've mastered it, at least at an intermediate or advanced level, using only its standard library and some default libraries.
 
 ## I hope you like it. I had fun creating it and configuring my environment after a while.
+
+### I use Python 3.8.10 and sqlite3
