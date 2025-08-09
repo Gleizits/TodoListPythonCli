@@ -44,7 +44,7 @@ def main():
                 task_id = int(input("Enter task ID to delete: "))
                 delete_task(task_id)
             elif choice == 5:
-                print("Exiting the application. Goodbye!")
+                print("Exiting the application..... \n Goodbye!😀")
                 break
             else:
                 print("Invalid choice. Please try again.")
