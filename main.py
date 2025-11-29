@@ -1,6 +1,7 @@
 from connection import add_task, view_tasks, update_task, delete_task
 import os
-
+import sys
+import time
 
 
 def main():
@@ -12,6 +13,7 @@ def main():
         This CLI was developed by Gleizits. The source code can be found on his GitHub. Thank you for downloading it.
         Loading Tasks...
           """)
+    time.sleep(2)
     a = input("Press Enter to continue...")
     if a == "":
         os.system("cls")
